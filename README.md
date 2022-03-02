@@ -1,6 +1,17 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and modified to use some libs.
+
+## Libs Installed and Ready to Use
+
+- Axios (^0.25.0)
+- React (^17.0.2)
+- React-Dom (^17.0.2)
+- React-Router-Dom (^6.2.1)
+- React-Scripts (5.0.0)
+- Styled-Components (^5.3.3)
+- Typescript (^4.4.2)
+- Web-Vitals (^2.1.0)
 
 ## Available Scripts
 

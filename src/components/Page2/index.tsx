@@ -1,4 +1,5 @@
 import { useCounter } from "../../context/CounterContex";
+import { Container } from "./styles";
 import "./index.css";
 
 function Page2() {
